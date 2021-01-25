@@ -28,14 +28,6 @@
 *.so.*
 *.dylib
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
 # Debug files
 *.dSYM/
 *.su
@@ -50,3 +42,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Language Files
+*.js
+*.ts
+*.cpp
+*.c
+*.y
+*.go
+*.html
+*.css
+*.py
